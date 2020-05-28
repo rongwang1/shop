@@ -1,4 +1,4 @@
 <template>
-  <div>hello word</div>
+  <div>hello word1</div>
 </template>
 <script></script>
